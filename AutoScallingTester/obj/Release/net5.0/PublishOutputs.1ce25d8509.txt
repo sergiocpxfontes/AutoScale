@@ -1,0 +1,11 @@
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.exe
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.deps.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.runtimeconfig.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.pdb
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

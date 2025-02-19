@@ -1,0 +1,11 @@
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.exe
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.deps.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.runtimeconfig.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.pdb
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

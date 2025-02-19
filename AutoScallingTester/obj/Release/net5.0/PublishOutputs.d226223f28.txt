@@ -1,0 +1,11 @@
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.exe
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.deps.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.runtimeconfig.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\AutoScalingTester.pdb
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

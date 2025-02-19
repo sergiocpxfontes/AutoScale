@@ -1,0 +1,115 @@
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\appsettings.Development.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\appsettings.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.exe
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.deps.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.dev.json
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\ref\AutoScalingTester.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.pdb
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csprojAssemblyReference.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfoInputs.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfo.cs
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.CoreCompileInputs.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.Manifest.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.xml
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\scopedcss\bundle\AutoScalingTester.styles.css
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.RazorTargetAssemblyInfo.cache
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.CopyComplete
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\ref\AutoScalingTester.dll
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.pdb
+C:\Projects\Academia2020\Developing Solutions for Microsoft Azure\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.genruntimeconfig.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\appsettings.Development.json
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\appsettings.json
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.exe
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.deps.json
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.json
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.dev.json
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\ref\AutoScalingTester.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csprojAssemblyReference.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfoInputs.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfo.cs
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.CoreCompileInputs.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.Manifest.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.xml
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\scopedcss\bundle\AutoScalingTester.styles.css
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.RazorTargetAssemblyInfo.cache
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.CopyComplete
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\ref\AutoScalingTester.dll
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\Academia2020A\DesigningImplementingDevOpsSolutions_062021\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.genruntimeconfig.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\appsettings.Development.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\appsettings.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.exe
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.deps.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.dev.json
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\ref\AutoScalingTester.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfoInputs.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfo.cs
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.CoreCompileInputs.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.Manifest.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.xml
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\scopedcss\bundle\AutoScalingTester.styles.css
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.RazorTargetAssemblyInfo.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\ref\AutoScalingTester.dll
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.genruntimeconfig.cache
+D:\Projects\Academia_2022_A\DevOpsSolutions_042022\code_helper\Code\AutoScalingTester\obj\Release\net5.0\AutoScalingTester.csproj.AssemblyReference.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\appsettings.Development.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\appsettings.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.StaticWebAssets.xml
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.exe
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.deps.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.runtimeconfig.dev.json
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.csproj.AssemblyReference.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfoInputs.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.AssemblyInfo.cs
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.csproj.CoreCompileInputs.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\scopedcss\bundle\AutoScalingTester.styles.css
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\staticwebassets\AutoScalingTester.StaticWebAssets.Manifest.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.RazorTargetAssemblyInfo.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.csproj.CopyComplete
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\refint\AutoScalingTester.dll
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.pdb
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\AutoScalingTester.genruntimeconfig.cache
+D:\Projects\AcademiaRumosFullStackDeveloper_CRE71910_2022_A\repository\academiasoftware71910\code\AutoScallingTester\AutoScallingTester\obj\Release\net5.0\ref\AutoScalingTester.dll
