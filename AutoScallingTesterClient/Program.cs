@@ -13,16 +13,17 @@ namespace AutoScallingTester
             {
                 try
                 {
-                    Console.WriteLine(DateTime.Now.ToString("mm:ss") +  " - /api/CPULoader?percentage=70&seconds=80");
+                    Console.WriteLine(DateTime.Now.ToString("mm:ss") +  " - " + args[0] + "/api/CPULoader?percentage=70&seconds=80");
                     using (WebClient webClient = new WebClient())
                     {
-                        webClient.BaseAddress = "https://autoscaletest.azurewebsites.net";
+                        webClient.BaseAddress = args[0];
+                        //webClient.BaseAddress = "http://localhost:80";
                         var json = webClient.DownloadString("/api/CPULoader?percentage=85&seconds=80");
                     }
                 }
                 catch (WebException ex)
                 {
-                    throw ex;
+                    Console.WriteLine(ex.Message);
                 }
             }
             Console.WriteLine("Concluído");

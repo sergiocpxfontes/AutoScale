@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoScallingTesterClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267730f152b2287e0228e02bf4f7ba1ccdc86a1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoScallingTesterClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoScallingTesterClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

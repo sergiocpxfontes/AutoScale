@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoScalingTester
-build_property.ProjectDir = D:\Rumos\Rumos_DevOpsWithDocker_022025\AutoScallingTester\AutoScallingTester\
+build_property.ProjectDir = D:\Rumos\Rumos_DevOpsWithDocker_022025\AutoScale\AutoScale\AutoScallingTester\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

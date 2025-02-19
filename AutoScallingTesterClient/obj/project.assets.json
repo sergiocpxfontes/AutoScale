@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScallingTester\\AutoScallingTesterClient\\AutoScallingTesterClient.csproj",
+      "projectUniqueName": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScale\\AutoScale\\AutoScallingTesterClient\\AutoScallingTesterClient.csproj",
       "projectName": "AutoScallingTesterClient",
-      "projectPath": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScallingTester\\AutoScallingTesterClient\\AutoScallingTesterClient.csproj",
+      "projectPath": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScale\\AutoScale\\AutoScallingTesterClient\\AutoScallingTesterClient.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScallingTester\\AutoScallingTesterClient\\obj\\",
+      "outputPath": "D:\\Rumos\\Rumos_DevOpsWithDocker_022025\\AutoScale\\AutoScale\\AutoScallingTesterClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
